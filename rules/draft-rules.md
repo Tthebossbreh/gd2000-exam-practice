@@ -25,5 +25,4 @@
 
 ## My rule
 
-Add one rule of your own here, and say what it does. A sentence or two is
-plenty.
+When a player eliminates an opponent's card, the opponent draws a card.
